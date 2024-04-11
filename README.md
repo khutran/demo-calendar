@@ -38,6 +38,9 @@ $ yarn install
 # development
 $ yarn start
 
+# migrate
+ 
+$ yarn migration:run
 
 ## Support
 
